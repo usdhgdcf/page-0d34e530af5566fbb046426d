@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "c3d726fdd5c8290baf57f244",
+  "owner": "usdhgdcf",
+  "repo": "page-0d34e530af5566fbb046426d",
+  "title": "大航海",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0d34e530af5566fbb046426d",
+      "a": "大航海",
+      "b": "稳定全球clash加速器",
+      "entity": "大航海",
+      "brand": "大航海",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "7b217b258c831ae1f9a4c17933e285683abbf68c7dc58d130f2bc8558579a909",
+      "content": {
+        "primary_entity": "大航海",
+        "keyword1": "大航海",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，月流量从 100GB 到 1000GB 可选，同时在线设备数从 3 台到 20 台递增。旗舰版与团队版配备 IPLC 专线及 VIP 节点，适合游戏与高清流媒体场景。",
+          "AI_HERO_SUBTITLE": "多档套餐，按设备与流量灵活选",
+          "AI_HERO_INTRO": "大航海面向不同使用强度的用户提供三档订阅方案，基础版适合单人或轻量使用，旗舰版兼顾速度与设备数量，团队版提供高带宽节点与多人协作配置，可按月或按年订阅。",
+          "AI_VISUAL_TITLE": "按需选套餐，轻松连全球",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖轻量到团队使用",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "支持 3 至 20 台设备在线",
+          "AI_FEATURES_TITLE": "套餐选择与设备匹配",
+          "AI_FEATURES_INTRO": "从流量、设备数量和线路类型三个维度挑选合适套餐。",
+          "AI_FEATURE_TITLE_1": "按流量选档位",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 适合浏览与轻视频，旗舰版 300GB 适合日常高清，团队版 1000GB 满足多人共用。",
+          "AI_FEATURE_TITLE_2": "按设备数定版本",
+          "AI_FEATURE_TEXT_2": "支持 3 台、5 台或 20 台设备同时在线，手机、平板与电脑可按需分配。",
+          "AI_FEATURE_TITLE_3": "按周期看成本",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，并依照订阅配置文档完成导入。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版、旗舰版与团队版在流量、设备数和节点类型上各有侧重，可结合使用人数与用途快速对比。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅配置，按步骤操作即可。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据所需流量和同时在线设备数，在基础版、旗舰版或团队版中选定一档。",
+          "AI_STEP_TITLE_2": "确认适配要求",
+          "AI_STEP_TEXT_2": "核对设备系统与客户端版本要求，确保终端支持对应订阅方式。",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_STEP_TEXT_3": "参考所选客户端的配置文档，添加订阅地址并同步节点，即可连接使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "从合适套餐开始",
+          "AI_CLOSING_TEXT": "按设备和流量需求选好版本，参照客户端文档导入订阅即可。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "大航海三档套餐主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "主要区别在月流量、设备数量和线路类型。基础版 100GB 与 3 台设备；旗舰版 300GB、5 台设备并含 IPLC 专线；团队版 1000GB 与 20 台设备。",
+          "AI_FAQ_QUESTION_2": "同时在线设备数量怎么计算？",
+          "AI_FAQ_ANSWER_2": "按同一时间在线的设备总数计算。基础版 3 台、旗舰版 5 台、团队版 20 台，手机、电脑与平板均计入其中。",
+          "AI_FAQ_QUESTION_3": "年付比月付便宜多少？",
+          "AI_FAQ_ANSWER_3": "基础版年付 ¥150 对应月付 ¥15 的价格水平，旗舰版年付 ¥350、团队版年付 ¥850 也按相同月单价折算，适合长期使用。",
+          "AI_FAQ_QUESTION_4": "不同设备该选哪个客户端？",
+          "AI_FAQ_ANSWER_4": "按设备系统选择对应订阅客户端，再参考客户端文档导入订阅。同一订阅可在大航海支持的设备上使用，但受套餐设备上限限制。",
+          "AI_FAQ_QUESTION_5": "旗舰版的 IPLC 专线适合什么场景？",
+          "AI_FAQ_ANSWER_5": "IPLC 专线针对游戏加速优化，适合对延迟敏感的对战类游戏，也适合观看原生流媒体；如果只是普通浏览，基础版普通线路节点池即可。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ertongxhg.cn",
+    "host": "ertongxhg.cn"
+  },
+  "file_hashes": {
+    "index.html": "6f1407259847cb21ceda3e907785b9e4e980f06e2767cb14bdf586a9199c4984",
+    "sitemap.xml": "1a3abd21a4a6672ff0da5620ba00756101c4966f03c569da3edde4af36cfef5e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e747077e8d6b48aa1be66d92491d8290403309e022f8e4c0cbb24d9dc634aba1",
+    "robots.txt": "ab7c354901b7aed05d853ca12f8f0e98f445888e0ab16a1070bb6e2d01bba432",
+    "d5cc7fc599bbfbd5df59483a0701361b.txt": "70d972edac82c5efa3f7f3fad08abef69ca48bfa96174a4c00b43ef3717900fb"
+  },
+  "revision": "3c0d959b7996fd4aeb216ecf7a33ddbe081a90f1c8a0bfd2eba84b2d8fc96791"
+}
